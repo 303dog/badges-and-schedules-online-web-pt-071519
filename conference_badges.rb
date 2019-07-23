@@ -6,9 +6,7 @@ def batch_badge_creator(attendees)
 attendees.map do |name|
   badge_maker(name)
   counter = 1
-def assign_rooms = [1,2,3,4,5,6,7]
- return "Hello,#{name}!You'll be assigned to room #{assign_rooms}!"
- counter += 1 
+ 
 end
 end
 
