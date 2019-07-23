@@ -7,7 +7,7 @@ attendees.map do |name|
   badge_maker(name)
   counter = 1
 def assign_rooms(attendees)
-  attendees <<< iterate over that:
+  attendees
     "Hello, #{attendee}! You'll be assigned to room #{room number}!"
   end
 end 
