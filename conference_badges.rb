@@ -15,7 +15,4 @@ end
 
 
 
-#counter = 1 
-#assign_rooms = [1,2,3,4,5,6,7]
-#puts "Hello, #{name}! You'll be assigned to room #{room}!"
-#counter += 1
+
